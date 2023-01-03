@@ -34,7 +34,7 @@ const Header = () => {
                   </Nav.Link>
                   <Nav.Link>
                     <NavLink
-                      to="/About"
+                      to="/Dashboard"
                       style={({ isActive }) => ({
                         color: isActive ? "Black" : "white",
                       })}
