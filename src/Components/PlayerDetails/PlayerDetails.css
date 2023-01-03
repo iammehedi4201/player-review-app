@@ -1,0 +1,21 @@
+
+.playerDetails-section
+{
+    padding: 20px;
+}
+.playerDetails-card-sizing{
+    min-height: 85vh;
+    padding: 20px;
+    border: 2px solid red!important;
+}
+.playerDetails-card-img-sizing
+{
+    
+    height: 85vh;
+}
+.playerDetails-card-body-sizing{
+     min-height: 85vh;
+     display: grid;
+     place-content: center;
+
+}

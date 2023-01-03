@@ -1,0 +1,15 @@
+.review-card-sizing{
+
+     min-height: 80vh;
+     border: 2px solid red!important;
+     padding: 10px;
+
+}
+.review-card-img-sizing{
+    display: block;
+     width: 90%;
+     height: 60vh;
+     margin: 0px auto;
+     border-radius: 2%;
+
+}
